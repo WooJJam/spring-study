@@ -7,3 +7,6 @@
 [submodule "java-basic-orm-jpa"]
 	path = java-basic-orm-jpa
 	url = https://github.com/WooJJam/java-basic-orm-jpa
+[submodule "spring-jpa-usage-1"]
+	path = spring-jpa-usage-1
+	url = https://github.com/WooJJam/spring-jpa-usage-1
