@@ -1,0 +1,3 @@
+[submodule "spring-core-basic"]
+	path = spring-core-basic
+	url = https://github.com/WooJJam/spring-core-basic.git
