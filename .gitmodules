@@ -10,3 +10,4 @@
 [submodule "spring-jpa-usage1"]
 	path = spring-jpa-usage1
 	url = https://github.com/WooJJam/spring-jpa-usage1
+	branch = main
