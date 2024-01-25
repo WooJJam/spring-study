@@ -4,3 +4,6 @@
 [submodule "spring-mvc-1"]
 	path = spring-mvc-1
 	url = https://github.com/WooJJam/spring-mvc-1
+[submodule "java-basic-orm-jpa"]
+	path = java-basic-orm-jpa
+	url = https://github.com/WooJJam/java-basic-orm-jpa
