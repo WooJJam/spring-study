@@ -10,3 +10,6 @@
 [submodule "spring-jpa-usage-1"]
 	path = spring-jpa-usage-1
 	url = https://github.com/WooJJam/spring-jpa-usage-1
+[submodule "spring-jpa-usage-2"]
+	path = spring-jpa-usage-2
+	url = https://github.com/WooJJam/spring-jpa-usage-2
